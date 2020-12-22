@@ -1,0 +1,114 @@
+.w{
+    width: 1200px;
+    margin: auto;
+}
+.header{
+    height: 82px;
+    border-bottom: 2px solid #ccc;
+}
+.logo{
+    padding-top: 15px;
+}
+.register_area{
+    height: 520px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.register_area h3{
+    height: 40px;
+    border-bottom: 1px solid #ccc;
+    padding:0 10px;
+    background-color: #ececec;
+    line-height: 40px;
+    font-weight: normal;
+    font-size: 18px;
+}
+.register_area h3 em{
+    float: right;
+    font-size: 14px;
+}
+.register_area h3 a{
+    color: #c81623;
+}
+.reg_form{
+    width: 600px;
+    height: 400px;
+    margin:100px auto 0;
+}
+.reg_form li{
+    margin-bottom: 15px;
+}
+.reg_form label{
+    display: inline-block;
+    width: 100px;
+    height: 36px;
+    line-height: 36px;
+    text-align: right;
+}
+.inp{
+    width: 238px;
+    height: 34px;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+}
+.error{
+    color: #df3033;
+    margin-left: 10px;
+}
+.error_icon{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url(../img/error.png) no-repeat;
+    vertical-align: middle;
+    margin-top: -2px;
+}
+.success{
+    color: #40b83f;
+    margin-left: 10px;
+}
+.success_icon{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background: url(../img/success.png) no-repeat;
+    vertical-align: middle;
+    margin-top: -2px;
+}
+.safe{
+    padding-left: 187px;
+    color: #b2b2b2;
+}
+.safe em{
+    padding:0 12px;
+    color: fff;
+}
+.ruo{
+    background-color: #de1111;
+}
+.zhong{
+    background-color: #40b83f;
+}
+.qiang{
+    background-color: #f79100;
+}
+.agree{
+    padding-top: 20px;
+    padding-left: 120px;
+}
+.agree input{
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.agree a{
+    color: #1ba1e6;
+}
+.over{
+    width: 200px;
+    height: 34px;
+    background-color: #c81623;
+    margin: 30px 130px;
+    border: 0;
+    color: #fff;
+    font-size: 14px;
+}
